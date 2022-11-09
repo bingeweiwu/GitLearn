@@ -6,3 +6,4 @@ Git is free software distributed under the GPL.
 git has a mutable index called stage.
 manage modify.
 again modify.
+add one line.
