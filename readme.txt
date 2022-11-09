@@ -7,3 +7,4 @@ git has a mutable index called stage.
 manage modify.
 again modify.
 add one line.
+when add one line and add to stage but no commit, add another line.
